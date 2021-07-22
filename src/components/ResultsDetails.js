@@ -13,7 +13,7 @@ const ResultsDetails =({result})=>{
 const styles = StyleSheet.create({
     container :{
 
-        marginLeft : 15
+        marginLeft : 12
     },
     imageStyle :
     {
